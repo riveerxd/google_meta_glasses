@@ -1,0 +1,39 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Bella",
+      "species": "pes",
+      "breed": "labrador",
+      "registered": true
+    },
+    {
+      "id": 2,
+      "name": "Miky",
+      "species": "kočka",
+      "breed": "mainská mývalí",
+      "registered": true
+    },
+    {
+      "id": 3,
+      "name": "Rex",
+      "species": "pes",
+      "breed": "německý ovčák",
+      "registered": false
+    },
+    {
+      "id": 4,
+      "name": "Mourek",
+      "species": "kočka",
+      "breed": "britská",
+      "registered": true
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "species": "pes",
+      "breed": "zlatý retrívr",
+      "registered": false
+    }
+  ]
+}

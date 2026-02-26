@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "client": "Anna Malá",
+      "date": "2024-01-15",
+      "type": "konzultace",
+      "notes": "První sezení"
+    },
+    {
+      "id": 2,
+      "client": "Petr Velký",
+      "date": "2024-01-16",
+      "type": "terapie",
+      "notes": "Pokračování"
+    },
+    {
+      "id": 3,
+      "client": "Jana Nová",
+      "date": "2024-01-17",
+      "type": "konzultace",
+      "notes": "Úvodní rozhovor"
+    },
+    {
+      "id": 4,
+      "client": "Tomáš Starý",
+      "date": "2024-01-18",
+      "type": "terapie",
+      "notes": "Kontrola"
+    },
+    {
+      "id": 5,
+      "client": "Eva Krásná",
+      "date": "2024-01-19",
+      "type": "konzultace",
+      "notes": "Nový klient"
+    }
+  ]
+}

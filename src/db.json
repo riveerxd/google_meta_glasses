@@ -1,0 +1,39 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "name": "Jan Novák",
+      "table": 5,
+      "seats": 2,
+      "paid": true
+    },
+    {
+      "id": 2,
+      "name": "Petra Svobodová",
+      "table": 3,
+      "seats": 4,
+      "paid": false
+    },
+    {
+      "id": 3,
+      "name": "Martin Dvořák",
+      "table": 7,
+      "seats": 2,
+      "paid": true
+    },
+    {
+      "id": 4,
+      "name": "Eva Černá",
+      "table": 1,
+      "seats": 6,
+      "paid": true
+    },
+    {
+      "id": 5,
+      "name": "Tomáš Procházka",
+      "table": 2,
+      "seats": 3,
+      "paid": false
+    }
+  ]
+}

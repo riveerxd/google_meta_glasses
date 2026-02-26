@@ -1,0 +1,39 @@
+{
+  "protocols": [
+    {
+      "id": 1,
+      "location": "Ulice Hlavní 15",
+      "date": "2024-01-10",
+      "status": "dokončeno",
+      "worker": "Karel Novotný"
+    },
+    {
+      "id": 2,
+      "location": "Náměstí Míru 3",
+      "date": "2024-01-12",
+      "status": "probíhá",
+      "worker": "Jan Svoboda"
+    },
+    {
+      "id": 3,
+      "location": "Ulice Dlouhá 42",
+      "date": "2024-01-15",
+      "status": "naplánováno",
+      "worker": "Petr Černý"
+    },
+    {
+      "id": 4,
+      "location": "Třída Vítězství 8",
+      "date": "2024-01-18",
+      "status": "dokončeno",
+      "worker": "Martin Dvořák"
+    },
+    {
+      "id": 5,
+      "location": "Ulice Krátká 1",
+      "date": "2024-01-20",
+      "status": "naplánováno",
+      "worker": "Tomáš Malý"
+    }
+  ]
+}
